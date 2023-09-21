@@ -14,7 +14,7 @@ module.exports = {
           owner: "HOJOON07",
           name: "Electron-App",
         },
-        prerelease: false,
+        prerelease: true,
         draft: true,
         authToken: Token,
       },

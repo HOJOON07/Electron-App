@@ -11,6 +11,7 @@
     "electron": "electron .",
     "publish": "electron-forge publish"
   },
+  "repository": "https://github.com/HOJOON07/Electron-App",
   "author": "hojoon",
   "license": "ISC",
   "devDependencies": {

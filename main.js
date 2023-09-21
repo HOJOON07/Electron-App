@@ -16,7 +16,6 @@ const createWinddow = () => {
   });
   // win.setFullScreen;
   // win.kiosk(true);
-  // win.loadFile("index.html");
   // win.on("leave-full-screen", () => {
   //   win.setFullScreen(true);
   //   this.fullsc;
@@ -27,6 +26,7 @@ const createWinddow = () => {
   // win.on("blur", () => {
   //   win.setFullScreen(true);
   // });
+  win.loadFile("index.html");
 };
 
 app.whenReady().then(() => {
